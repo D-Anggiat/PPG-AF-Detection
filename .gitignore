@@ -1,0 +1,25 @@
+__pycache__/
+*.py[cod]
+*.so
+.Python
+env/
+venv/
+.venv/
+*.egg-info/
+
+obj_*/
+*.o
+*.elf
+*.bin
+*.img
+*.bak
+*.backup
+*.backup2
+
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Log
+*.log
